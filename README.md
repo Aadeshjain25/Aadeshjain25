@@ -13,7 +13,7 @@ I build full-stack applications and AI-powered developer tools, focusing on reli
 
 ### 🚀 Featured Projects
 
-- **[Synapse]** — Building an AI-powered repository intelligence platform using RAG, knowledge graphs, and evidence-cited answers.
+- **Synapse** — Building an AI-powered repository intelligence platform using RAG, knowledge graphs, and evidence-cited answers.
 - **[StackAudit AI](https://stackaudit-ai.vercel.app)** — AI-powered code quality and production risk analysis using AST parsing and LLM-generated engineering feedback.
 
 ### 💼 Experience
