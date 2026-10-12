@@ -1,13 +1,17 @@
-👋 Hi, I’m @Aadeshjain25
+# 👋 Hi, I'm Aadesh Jain
 
-- 👀 I’m interested in **Software Development, Frontend Development, DSA, and Web Development**.
-- 🌱 Proficient in **C++ (DSA)** and **React.js**, and building projects using **HTML, CSS, JavaScript, React.js and Node.js**.
-- Familiarity with **MongoDB and Express.js**
-- 💞️ I’m looking to collaborate on **frontend development projects, software development challenges**, and **open-source contributions**.
-- 📫 How to reach me: **Email** - [aadeshjain2004@gmail.com] | **LinkedIn** - [https://www.linkedin.com/in/aadeshjain25/]
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I love solving DSA problems and building interactive websites with animations!**
-<!---
-Aadeshjain25/Aadeshjain25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Full Stack Software Engineer | AI Engineer | Builder
+
+I build full-stack applications and AI-powered products, focusing on clean architecture, useful features, and real-world engineering problems.
+
+- 💻 **Tech Stack:** JavaScript, TypeScript, React.js, Next.js, Node.js
+- 🧠 **AI Engineering:** LLM APIs, RAG, LangChain.js, AI integrations
+- 🗄️ **Backend & Databases:** Express.js, REST APIs, PostgreSQL, MongoDB, Prisma
+- 🛠️ **Tools:** Git, GitHub, Docker
+- 🚀 **Featured Project:** StackAudit AI — AI-powered code quality and risk analysis
+- 🤝 **Interested in:** Full-stack engineering, AI products, SaaS, and open-source collaboration
+
+### 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aadeshjain25
+- Email: aadeshjain2004@gmail.com
